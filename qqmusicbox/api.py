@@ -126,7 +126,7 @@ class QQMUSIC(object):
         return super().__init__(*args, **kwargs)
 
     def get_version(self):
-        action = "https://pypi.org/pypi/QQMUSIC-MusicBox/json"
+        action = "https://pypi.org/pypi/qqmusicbox/json"
         try:
             return requests.get(action).json()
         except requests.exceptions.RequestException as e:
