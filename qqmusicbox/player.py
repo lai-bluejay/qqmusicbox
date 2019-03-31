@@ -1,13 +1,11 @@
 #!/usr/bin/env python
 # -*- coding: utf-8 -*-
-# @Author: omi
-# @Date:   2014-07-15 15:48:27
-# @Last Modified by:   AlanAlbert
-# @Last Modified time: 2018-11-21 14:00:00
 """
-网易云音乐 Player
+qqmusicbox/player.py was created on 2019/03/31.
+file in :relativeFile
+Author: Charles_Lai
+Email: lai.bluejay@gmail.com
 """
-# Let's make some noise
 from __future__ import print_function, unicode_literals, division, absolute_import
 
 import subprocess

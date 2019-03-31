@@ -1,8 +1,6 @@
 #!/usr/bin/env python
 # -*- coding: utf-8 -*-
-"""
-网易云音乐 Entry
-"""
+
 from __future__ import print_function, unicode_literals, division, absolute_import
 import curses
 import traceback

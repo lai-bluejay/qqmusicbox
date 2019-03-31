@@ -1,9 +1,10 @@
 #!/usr/bin/env python
 # -*- coding: utf-8 -*-
-# @Author: omi
-# @Date:   2014-08-24 21:51:57
 """
-网易云音乐 Menu
+qqmusicbox/menu.py was created on 2019/03/31.
+file in :relativeFile
+Author: Charles_Lai
+Email: lai.bluejay@gmail.com
 """
 from __future__ import print_function, unicode_literals, division, absolute_import
 
