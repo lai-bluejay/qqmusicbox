@@ -23,7 +23,7 @@ URL = 'https://github.com/lai-bluejay/qqmusicbox'
 EMAIL = 'lai.bluejay@gmail.com'
 AUTHOR = 'Charles Lai'
 REQUIRES_PYTHON = '>=3.5.0'
-VERSION = '0.1'
+VERSION = '0.1.1'
 
 # What packages are required for this module to be executed?
 REQUIRED = [

@@ -1,6 +1,7 @@
 # QQMusicBox
-[![Build Status](https://travis-ci.org/lai-bluejay/qqmusicbox.svg?branch=master)](https://travis-ci.org/lai-bluejay/qqmusicbox)
-![PyPI](https://img.shields.io/pypi/v/diego.svg?style=flat)
+
+![Build Status](https://travis-ci.org/lai-bluejay/qqmusicbox.svg?branch=master)
+![PyPI](https://img.shields.io/pypi/v/qqmusicbox.svg?style=flat)
 ![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/lai-bluejay/qqmusicbox.svg)
 
 只要有声卡，命令行也能播放音乐
